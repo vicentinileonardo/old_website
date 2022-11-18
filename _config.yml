@@ -106,7 +106,7 @@ edit_page_button: false
 navbar-var-length: false
 
 # The keywords to associate with your website, for SEO purposes
-keywords: "software engineer, software developer, leonardovicentini, leonardo vicentini, unitn"
+keywords: "software-engineer, software-developer, leonardovicentini, leonardo-vicentini, unitn"
 
 ######################################
 # --- Colours / background image --- #
