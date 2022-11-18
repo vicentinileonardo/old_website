@@ -15,8 +15,7 @@ author: Leonardo Vicentini
 navbar-links:
   About Me: "aboutme"
   My projects:
-    - : "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
+    - prova: "https://leonardovicentini.com"
   Resume:
 
 ################
