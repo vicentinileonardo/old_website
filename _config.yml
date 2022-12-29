@@ -14,10 +14,12 @@ author: Leonardo Vicentini
 
 navbar-links:
   About Me: "aboutme"
-  My projects:
-    - prova: "https://leonardovicentini.com"
   Resume: "/assets/CV_Leonardo_Vicentini.pdf"
-
+  Projects:
+    - Digital watermarking tool: "https://github.com/vicentinileonardo/DWT-SVD-digital-watermarking"
+    - Parallel covex hull solver: "https://github.com/vicentinileonardo/parallel-convex-hull"
+    
+  
 ################
 # --- Logo --- #
 ################
