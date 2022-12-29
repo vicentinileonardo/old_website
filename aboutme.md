@@ -1,14 +1,9 @@
 ---
 layout: page
 title: About me
-<!--subtitle: Why you'd want to go on a date with me -->
+
 ---
+Master’s degree student in Computer Science excited to begin an internship as the final step toward completion of studies. Pas‑
+sionate about cloud‑native solutions and system design in general. Interested in experimenting with and learning the latest tech‑
+nologies, tools, and paradigms.
 
-My name is Leonardo Vicentini
-
-
-<!--
-### My story
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
--->
