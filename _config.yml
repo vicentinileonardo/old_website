@@ -16,7 +16,7 @@ navbar-links:
   About Me: "aboutme"
   My projects:
     - prova: "https://leonardovicentini.com"
-  Resume:
+  Resume: "/assets/CV_Leonardo_Vicentini.pdf"
 
 ################
 # --- Logo --- #
