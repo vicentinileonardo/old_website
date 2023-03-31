@@ -4,11 +4,12 @@ title: Projects
 permalink: /projects/
 ---
 
-<ul>
-  {% for post in site.posts %}
-    <li>
-        <p>test</p>
-      <a href="{{ post.url }}">{{ post.title }}</a>
-    </li>
-  {% endfor %}
-</ul>
+# Query recommendation system
+
+# Digital watermarking tool
+
+# Parallel convex hull solver
+
+# Daytrip - service-oriented cloud-native application
+
+# Multi-level distributed cache
