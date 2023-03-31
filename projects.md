@@ -19,8 +19,7 @@ TODO
 ![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
 
 
----
----
+<hr style="border:2px solid gray"> </hr>
 
 
 ## Digital watermarking tool
