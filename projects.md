@@ -7,7 +7,8 @@ permalink: /projects/
 ## Query recommendation system
 
 [Github Repository](https://github.com/vicentinileonardo/query-recommendation-system)
-[Project Report](https://github.com/vicentinileonardo/query-recommendation-system/blob/main/report.pdf)
+
+[Project Report](https://github.com/vicentinileonardo/query-recommendation-system/raw/main/report.pdf)
 
 ---
 
@@ -18,6 +19,13 @@ permalink: /projects/
 ---
 
 ## Parallel convex hull solver
+
+[Github Repository](https://github.com/vicentinileonardo/parallel-convex-hull)
+
+[Project Report]()
+
+---
+
 
 ## Daytrip - service-oriented cloud-native application
 
