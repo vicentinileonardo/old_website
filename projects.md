@@ -1,14 +1,16 @@
 ---
 layout: page
 title: Projects
-permalink: /projects/
+permalink: /projects
 ---
 
 ## Query recommendation system
 
 [Github Repository](https://github.com/vicentinileonardo/query-recommendation-system)
 
-[Project Report](https://github.com/vicentinileonardo/query-recommendation-system/raw/main/report.pdf)
+[Project Report](https://github.com/vicentinileonardo/query-recommendation-system/blob/main/report.pdf)
+
+Language: ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 
 ---
 
@@ -22,7 +24,7 @@ permalink: /projects/
 
 [Github Repository](https://github.com/vicentinileonardo/parallel-convex-hull)
 
-[Project Report]()
+[Project Report](https://github.com/vicentinileonardo/parallel-convex-hull/blob/main/Report_Parallel_Convex_Hull-Battocchio_Vicentini.pdf)
 
 ---
 

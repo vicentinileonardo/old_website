@@ -1,6 +1,7 @@
 ---
 layout: page
 title: About me
+permalink: /aboutme
 
 ---
 Master's degree student in **Computer Science** excited to begin his thesis work on **Cloud FinOps** as the final step toward completion of studies.
