@@ -12,15 +12,15 @@ TODO
 
 + [Github Repository](https://github.com/vicentinileonardo/query-recommendation-system)
 + [Project Report](https://github.com/vicentinileonardo/query-recommendation-system/blob/main/report.pdf)
++ Team size: 2
+
 
 ### Tech stack
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ![NumPy](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white) 
 ![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
 
-
-<hr style="border:2px solid gray"> </hr>
-
+<hr style="border:2px solid gray"> 
 
 ## Digital watermarking tool
 
@@ -28,14 +28,15 @@ TODO
 
 TODO
 
-[Github Repository](https://github.com/vicentinileonardo/DWT-SVD-digital-watermarking)
++ [Github Repository](https://github.com/vicentinileonardo/DWT-SVD-digital-watermarking)
++ Team size: 4
 
 ### Tech stack
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ![NumPy](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white) 
 ![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)
 
----
+<hr style="border:2px solid gray"> 
 
 ## Parallel convex hull solver
 
@@ -43,15 +44,15 @@ TODO
 
 TODO
 
-[Github Repository](https://github.com/vicentinileonardo/parallel-convex-hull)
-
-[Project Report](https://github.com/vicentinileonardo/parallel-convex-hull/blob/main/Report_Parallel_Convex_Hull-Battocchio_Vicentini.pdf)
++ [Github Repository](https://github.com/vicentinileonardo/parallel-convex-hull)
++ [Project Report](https://github.com/vicentinileonardo/parallel-convex-hull/blob/main/Report_Parallel_Convex_Hull-Battocchio_Vicentini.pdf)
++ Team size: 2
 
 ### Tech stack
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue) 
 
----
+<hr style="border:2px solid gray"> 
 
 ## Daytrip - service-oriented cloud-native web application
 
@@ -60,9 +61,9 @@ TODO
 TODO
 (work in progress)
 
-[Github Repository](https://github.com/vicentinileonardo/daytrip)
-
-[Project Report]()
++ [Github Repository](https://github.com/vicentinileonardo/daytrip)
++ [Project Report]()
++ Team size: 2
 
 ### Tech stack
 ![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
@@ -80,7 +81,7 @@ TODO
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
----
+<hr style="border:2px solid gray"> 
 
 ## Multi-level distributed cache
 
@@ -88,14 +89,14 @@ TODO
 
 TODO
 
-[Github Repository](https://github.com/vicentinileonardo/distributed-cache)
-
-[Project Report]()
++ [Github Repository](https://github.com/vicentinileonardo/distributed-cache)
++ [Project Report]()
++ Team size: 2
 
 ### Tech stack
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 
----
+<hr style="border:2px solid gray"> 
 
 ## Galaxies image classification
 
@@ -103,9 +104,9 @@ TODO
 
 TODO
 
-[Github Repository](https://github.com/vicentinileonardo/galaxies-image-classification)
-
-[Project Report](https://github.com/vicentinileonardo/galaxies-image-classification/blob/main/Report.pdf)
++ [Github Repository](https://github.com/vicentinileonardo/galaxies-image-classification)
++ [Project Report](https://github.com/vicentinileonardo/galaxies-image-classification/blob/main/Report.pdf)
++ Team size: 1
 
 ### Tech stack
 
@@ -113,7 +114,7 @@ TODO
 ![NumPy](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white) 
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white)
 
----
+<hr style="border:2px solid gray"> 
 
 ## Dating app
 
@@ -121,8 +122,8 @@ TODO
 
 TODO
 
-[Github Repository](https://github.com/vicentinileonardo/dating-app)
-
++ [Github Repository](https://github.com/vicentinileonardo/dating-app)
++ Team size: 5
 
 ### Tech stack
 
@@ -134,4 +135,4 @@ TODO
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
----
+<hr style="border:2px solid gray"> 
