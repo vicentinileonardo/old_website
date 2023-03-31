@@ -4,6 +4,8 @@ title: Projects
 permalink: /projects/
 ---
 
-{% for post in site.posts %}
-    {% include post.html %}
+{% for post in posts %} 
+    {% if post.tags contains 'project' %}
+        {% include post.html %}
+    {% endif %}
 {% endfor %}
