@@ -7,10 +7,10 @@ permalink: /projects/
 ## Query recommendation system
 
 [Github Repository](https://github.com/vicentinileonardo/query-recommendation-system)
-
 [Project Report](https://github.com/vicentinileonardo/query-recommendation-system/blob/main/report.pdf)
 
-Language: ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+Language: ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue) 
+Libraries: ![NumPy](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
 
 ---
 
