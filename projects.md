@@ -47,18 +47,13 @@ TODO
 
 TODO
 
-# add two buttons with 2 icons: github and pdf, in html
-
-
-
 + [GitHub Repository](https://github.com/vicentinileonardo/parallel-convex-hull) <i class="fa fa-github" style="font-size:18px"></i>
 + [Project Report](https://github.com/vicentinileonardo/parallel-convex-hull/blob/main/Report_Parallel_Convex_Hull-Battocchio_Vicentini.pdf)
 + Team size: 2
-<p>Icon buttons are used as a call to action, or to add visual emphasis to a page.</p>
 
 <center>
-    <button class="btn"><i class="fa fa-home" style="font-size:24px"></i></button>
-    <button class="btn"><i class="fa fa-search" style="font-size:24px"></i></button>
+    <button onclick="location.href='http://www.google.com'" type="button" class="btn" ><i class="fa fa-home" style="font-size:36px"></i></button>
+    <button class="btn"><i class="fa fa-search" style="font-size:36px"></i></button>
 </center>
 
 
