@@ -57,8 +57,8 @@ TODO
 <p>Icon buttons are used as a call to action, or to add visual emphasis to a page.</p>
 
 <center>
-    <button class="btn"><a href="google.com" class="fa fa-github" style="font-size:18px"></a></button>
-    <button class="btn"></button>
+    <button class="btn"><i class="fa fa-home" style="font-size:24px"></i></button>
+    <button class="btn"><i class="fa fa-search" style="font-size:24px"></i></button>
 </center>
 
 
