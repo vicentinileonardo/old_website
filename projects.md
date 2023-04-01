@@ -11,7 +11,7 @@ permalink: /projects/
 Hybrid recommendation system leveraging a linear combination of Expanded-Item-Item Collaborative Filtering and Compact Item-Item Collaborative Filtering based on query result cardinality.
 
 + [Github Repository](https://github.com/vicentinileonardo/query-recommendation-system)
-+ [Project Report](https://github.com/vicentinileonardo/query-recommendation-system/blob/main/report.pdf) <i style="font-size:24px" class="fa">&#xf1c1;</i>
++ [Project Report](https://github.com/vicentinileonardo/query-recommendation-system/blob/main/report.pdf) <i style="font-size:20px" class="fa" href="https://github.com/vicentinileonardo/query-recommendation-system/blob/main/report.pdf">&#xf1c1;</i>
 + Team size: 2
 
 
