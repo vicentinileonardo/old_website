@@ -11,9 +11,12 @@ permalink: /projects/
 
 Hybrid recommendation system leveraging a linear combination of Expanded-Item-Item Collaborative Filtering and Compact Item-Item Collaborative Filtering based on query result cardinality.
 
-+ [GitHub Repository](https://github.com/vicentinileonardo/query-recommendation-system) <i class="fa fa-github" style="font-size:18px"></i>
-+ [Project Report](https://github.com/vicentinileonardo/query-recommendation-system/blob/main/report.pdf) <i class="fa fa-file-pdf-o" style="font-size:18px"></i>
 + Team size: 2
+
+<center>
+    <button onclick="window.open('https://github.com/vicentinileonardo/query-recommendation-system','_blank');" type="button" class="btn" ><i class="fa fa-github" style="font-size:42px"></i></button>
+    <button onclick="window.open('https://github.com/vicentinileonardo/query-recommendation-system/blob/main/report.pdf','_blank');" type="button" class="btn"><i class="fa fa-file-pdf-o" style="font-size:42px"></i></button>
+</center>
 
 
 ### Tech stack
@@ -31,8 +34,11 @@ Tool developed in the context of a Multimedia Data Security competition.
 
 TODO
 
-+ [GitHub Repository](https://github.com/vicentinileonardo/DWT-SVD-digital-watermarking) <i class="fa fa-github" style="font-size:18px"></i>
 + Team size: 4
+
+<center>
+    <button onclick="window.open('https://github.com/vicentinileonardo/DWT-SVD-digital-watermarking','_blank');" type="button" class="btn" ><i class="fa fa-github" style="font-size:42px"></i></button>
+</center>
 
 ### Tech stack
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
@@ -71,9 +77,12 @@ TODO
 TODO
 (work in progress)
 
-+ [GitHub Repository](https://github.com/vicentinileonardo/daytrip)
-+ [Project Report]()
 + Team size: 2
+
+<center>
+    <button onclick="window.open('https://github.com/vicentinileonardo/daytrip','_blank');" type="button" class="btn" ><i class="fa fa-github" style="font-size:42px"></i></button>
+    <button onclick="window.open('','_blank');" type="button" class="btn"><i class="fa fa-file-pdf-o" style="font-size:42px"></i></button>
+</center>
 
 ### Tech stack
 ![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
@@ -99,9 +108,12 @@ TODO
 
 TODO
 
-+ [GitHub Repository](https://github.com/vicentinileonardo/distributed-cache)
-+ [Project Report]()
 + Team size: 2
+
+<center>
+    <button onclick="window.open('https://github.com/vicentinileonardo/distributed-cache','_blank');" type="button" class="btn" ><i class="fa fa-github" style="font-size:42px"></i></button>
+    <button onclick="window.open('','_blank');" type="button" class="btn"><i class="fa fa-file-pdf-o" style="font-size:42px"></i></button>
+</center>
 
 ### Tech stack
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
@@ -114,9 +126,12 @@ TODO
 
 TODO
 
-+ [GitHub Repository](https://github.com/vicentinileonardo/galaxies-image-classification)
-+ [Project Report](https://github.com/vicentinileonardo/galaxies-image-classification/blob/main/Report.pdf)
 + Team size: 1
+
+<center>
+    <button onclick="window.open('https://github.com/vicentinileonardo/galaxies-image-classification','_blank');" type="button" class="btn" ><i class="fa fa-github" style="font-size:42px"></i></button>
+    <button onclick="window.open('https://github.com/vicentinileonardo/galaxies-image-classification/blob/main/Report.pdf','_blank');" type="button" class="btn"><i class="fa fa-file-pdf-o" style="font-size:42px"></i></button>
+</center>
 
 ### Tech stack
 
@@ -132,8 +147,11 @@ TODO
 
 TODO
 
-+ [GitHub Repository](https://github.com/vicentinileonardo/dating-app)
 + Team size: 5
+
+<center>
+    <button onclick="window.open('https://github.com/vicentinileonardo/dating-app','_blank');" type="button" class="btn" ><i class="fa fa-github" style="font-size:42px"></i></button>
+</center>
 
 ### Tech stack
 
