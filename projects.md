@@ -47,7 +47,9 @@ TODO
 ![NumPy](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white) 
 ![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)
 
+<br>
 <hr style="border:2px solid gray"> 
+<br>
 
 ## Parallel convex hull solver
 
@@ -55,8 +57,6 @@ TODO
 
 TODO
 
-+ [GitHub Repository](https://github.com/vicentinileonardo/parallel-convex-hull) <i class="fa fa-github" style="font-size:18px"></i>
-+ [Project Report](https://github.com/vicentinileonardo/parallel-convex-hull/blob/main/Report_Parallel_Convex_Hull-Battocchio_Vicentini.pdf)
 + Team size: 2
 
 <center>
@@ -64,13 +64,13 @@ TODO
     <button onclick="window.open('https://github.com/vicentinileonardo/parallel-convex-hull/blob/main/Report_Parallel_Convex_Hull-Battocchio_Vicentini.pdf','_blank');" type="button" class="btn"><i class="fa fa-file-pdf-o" style="font-size:42px"></i></button>
 </center>
 
-
-
 ### Tech stack
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue) 
 
+<br>
 <hr style="border:2px solid gray"> 
+<br>
 
 ## Daytrip - service-oriented cloud-native web application
 
@@ -102,7 +102,9 @@ TODO
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
+<br>
 <hr style="border:2px solid gray"> 
+<br>
 
 ## Multi-level distributed cache
 
@@ -120,7 +122,9 @@ TODO
 ### Tech stack
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 
+<br>
 <hr style="border:2px solid gray"> 
+<br>
 
 ## Galaxies image classification
 
@@ -141,7 +145,9 @@ TODO
 ![NumPy](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white) 
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white)
 
+<br>
 <hr style="border:2px solid gray"> 
+<br>
 
 ## Dating app
 
@@ -165,4 +171,6 @@ TODO
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
+<br>
 <hr style="border:2px solid gray"> 
+<br>
