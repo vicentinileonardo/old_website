@@ -24,6 +24,7 @@ Hybrid recommendation system leveraging a linear combination of Expanded-Item-It
 ![NumPy](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white) 
 ![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
 
+<br>
 <hr style="border:2px solid gray"> 
 <br>
 
