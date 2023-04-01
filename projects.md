@@ -25,6 +25,7 @@ Hybrid recommendation system leveraging a linear combination of Expanded-Item-It
 ![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
 
 <hr style="border:2px solid gray"> 
+<br>
 
 ## Digital watermarking tool
 
