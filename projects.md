@@ -52,8 +52,8 @@ TODO
 + Team size: 2
 
 <center>
-    <button onclick="window.open('https://github.com/vicentinileonardo/parallel-convex-hull','_blank');" type="button" class="btn" ><i class="fa fa-home" style="font-size:36px"></i></button>
-    <button class="btn"><i class="fa fa-search" style="font-size:36px"></i></button>
+    <button onclick="window.open('https://github.com/vicentinileonardo/parallel-convex-hull','_blank');" type="button" class="btn" ><i class="fa fa-github" style="font-size:36px"></i></button>
+    <button onclick="window.open('https://github.com/vicentinileonardo/parallel-convex-hull/blob/main/Report_Parallel_Convex_Hull-Battocchio_Vicentini.pdf','_blank');" type="button" class="btn"><i class="fa fa-file-pdf-o" style="font-size:36px"></i></button>
 </center>
 
 
