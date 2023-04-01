@@ -52,7 +52,7 @@ TODO
 + Team size: 2
 
 <center>
-    <button onclick="location.href='http://www.google.com'" type="button" class="btn" ><i class="fa fa-home" style="font-size:36px"></i></button>
+    <button onclick="window.open('example.com','_blank');" type="button" class="btn" ><i class="fa fa-home" style="font-size:36px"></i></button>
     <button class="btn"><i class="fa fa-search" style="font-size:36px"></i></button>
 </center>
 
