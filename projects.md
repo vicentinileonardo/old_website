@@ -8,7 +8,7 @@ permalink: /projects/
 
 ### Project description
 
-TODO
+Hybrid recommendation system leveraging a linear combination of Expanded-Item-Item Collaborative Filtering and Compact Item-Item Collaborative Filtering based on query result cardinality.
 
 + [Github Repository](https://github.com/vicentinileonardo/query-recommendation-system)
 + [Project Report](https://github.com/vicentinileonardo/query-recommendation-system/blob/main/report.pdf)
@@ -25,6 +25,8 @@ TODO
 ## Digital watermarking tool
 
 ### Project description
+
+Tool developed in the context of a Multimedia Data Security competition.
 
 TODO
 
