@@ -3,6 +3,7 @@ layout: page
 title: Projects
 permalink: /projects/
 ---
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 
 ## Query recommendation system
 
@@ -10,7 +11,7 @@ permalink: /projects/
 
 Hybrid recommendation system leveraging a linear combination of Expanded-Item-Item Collaborative Filtering and Compact Item-Item Collaborative Filtering based on query result cardinality.
 
-+ [GitHub Repository](https://github.com/vicentinileonardo/query-recommendation-system) <i style="font-size:18px" class="fa">&#xf09b;</i>
++ [GitHub Repository](https://github.com/vicentinileonardo/query-recommendation-system) <i class="fa fa-github" style="font-size:24px"></i>
 + [Project Report](https://github.com/vicentinileonardo/query-recommendation-system/blob/main/report.pdf) <i style="font-size:18px" class="fa" >&#xf1c1;</i>
 + Team size: 2
 
