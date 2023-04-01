@@ -10,8 +10,8 @@ permalink: /projects/
 
 Hybrid recommendation system leveraging a linear combination of Expanded-Item-Item Collaborative Filtering and Compact Item-Item Collaborative Filtering based on query result cardinality.
 
-+ [Github Repository](https://github.com/vicentinileonardo/query-recommendation-system)
-+ [Project Report](https://github.com/vicentinileonardo/query-recommendation-system/blob/main/report.pdf) <i style="font-size:20px" class="fa" href="https://github.com/vicentinileonardo/query-recommendation-system/blob/main/report.pdf">&#xf1c1;</i>
++ [GitHub Repository](https://github.com/vicentinileonardo/query-recommendation-system)
++ [Project Report](https://github.com/vicentinileonardo/query-recommendation-system/blob/main/report.pdf) <i style="font-size:20px">&#xf1c1;</i>
 + Team size: 2
 
 
@@ -30,7 +30,7 @@ Tool developed in the context of a Multimedia Data Security competition.
 
 TODO
 
-+ [Github Repository](https://github.com/vicentinileonardo/DWT-SVD-digital-watermarking)
++ [GitHub Repository](https://github.com/vicentinileonardo/DWT-SVD-digital-watermarking)
 + Team size: 4
 
 ### Tech stack
@@ -46,7 +46,7 @@ TODO
 
 TODO
 
-+ [Github Repository](https://github.com/vicentinileonardo/parallel-convex-hull)
++ [GitHub Repository](https://github.com/vicentinileonardo/parallel-convex-hull)
 + [Project Report](https://github.com/vicentinileonardo/parallel-convex-hull/blob/main/Report_Parallel_Convex_Hull-Battocchio_Vicentini.pdf)
 + Team size: 2
 
@@ -63,7 +63,7 @@ TODO
 TODO
 (work in progress)
 
-+ [Github Repository](https://github.com/vicentinileonardo/daytrip)
++ [GitHub Repository](https://github.com/vicentinileonardo/daytrip)
 + [Project Report]()
 + Team size: 2
 
@@ -91,7 +91,7 @@ TODO
 
 TODO
 
-+ [Github Repository](https://github.com/vicentinileonardo/distributed-cache)
++ [GitHub Repository](https://github.com/vicentinileonardo/distributed-cache)
 + [Project Report]()
 + Team size: 2
 
@@ -106,7 +106,7 @@ TODO
 
 TODO
 
-+ [Github Repository](https://github.com/vicentinileonardo/galaxies-image-classification)
++ [GitHub Repository](https://github.com/vicentinileonardo/galaxies-image-classification)
 + [Project Report](https://github.com/vicentinileonardo/galaxies-image-classification/blob/main/Report.pdf)
 + Team size: 1
 
@@ -124,7 +124,7 @@ TODO
 
 TODO
 
-+ [Github Repository](https://github.com/vicentinileonardo/dating-app)
++ [GitHub Repository](https://github.com/vicentinileonardo/dating-app)
 + Team size: 5
 
 ### Tech stack
