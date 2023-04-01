@@ -11,8 +11,8 @@ permalink: /projects/
 
 Hybrid recommendation system leveraging a linear combination of Expanded-Item-Item Collaborative Filtering and Compact Item-Item Collaborative Filtering based on query result cardinality.
 
-+ [GitHub Repository](https://github.com/vicentinileonardo/query-recommendation-system) <i class="fa fa-github" style="font-size:24px"></i>
-+ [Project Report](https://github.com/vicentinileonardo/query-recommendation-system/blob/main/report.pdf) <i style="font-size:18px" class="fa" >&#xf1c1;</i>
++ [GitHub Repository](https://github.com/vicentinileonardo/query-recommendation-system) <i class="fa fa-github" style="font-size:18px"></i>
++ [Project Report](https://github.com/vicentinileonardo/query-recommendation-system/blob/main/report.pdf) <i class="fa fa-file-pdf-o" style="font-size:18px"></i>
 + Team size: 2
 
 
@@ -31,7 +31,7 @@ Tool developed in the context of a Multimedia Data Security competition.
 
 TODO
 
-+ [GitHub Repository](https://github.com/vicentinileonardo/DWT-SVD-digital-watermarking)
++ [GitHub Repository](https://github.com/vicentinileonardo/DWT-SVD-digital-watermarking) <i class="fa fa-github" style="font-size:18px"></i>
 + Team size: 4
 
 ### Tech stack
@@ -47,9 +47,20 @@ TODO
 
 TODO
 
-+ [GitHub Repository](https://github.com/vicentinileonardo/parallel-convex-hull)
+# add two buttons with 2 icons: github and pdf, in html
+
+
+
++ [GitHub Repository](https://github.com/vicentinileonardo/parallel-convex-hull) <i class="fa fa-github" style="font-size:18px"></i>
 + [Project Report](https://github.com/vicentinileonardo/parallel-convex-hull/blob/main/Report_Parallel_Convex_Hull-Battocchio_Vicentini.pdf)
 + Team size: 2
+<p>Icon buttons are used as a call to action, or to add visual emphasis to a page.</p>
+
+<button class="btn"><i class="fa fa-home"></i></button>
+<button class="btn"><i class="fa fa-search"></i></button>
+
+
+</body>
 
 ### Tech stack
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
