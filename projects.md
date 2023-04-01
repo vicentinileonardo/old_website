@@ -56,11 +56,12 @@ TODO
 + Team size: 2
 <p>Icon buttons are used as a call to action, or to add visual emphasis to a page.</p>
 
-<button class="btn"><i class="fa fa-home"></i></button>
-<button class="btn"><i class="fa fa-search"></i></button>
+<centering>
+    <button class="btn"><i class="fa fa-home"></i></button>
+    <button class="btn"><i class="fa fa-search"></i></button>
+</centering>
 
 
-</body>
 
 ### Tech stack
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
