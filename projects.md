@@ -32,7 +32,10 @@ Hybrid recommendation system leveraging a linear combination of Expanded-Item-It
 
 ### Project description
 
-A digital watermarking implementation developed for the "Catch the Mark" competition of the Multimedia Data Security graduate course at the University of Trento. The implementation is based on Discrete Wavelet Transform and Singular Value Decomposition. The repository contains code for embedding, detecting, and attacking watermarked images. Overall, the embedding strategy was evaluated as interesting and effective.
+A digital watermarking implementation developed for the **"Catch the Mark" competition** of the Multimedia Data Security graduate course at the University of Trento. The implementation is based on various research papers and leverages **Discrete Wavelet Transform** and **Singular Value Decomposition**. The repository contains code for embedding, detecting, and attacking watermarked images. Overall, the embedding strategy was evaluated as interesting and effective.
+**Azure IaaS** (VMs with configured venv), Google Colab (Jupyter notebooks) and local machines were exploited for the parallelization of the attack phase.
+
+
 
 + Team size: 4
 
