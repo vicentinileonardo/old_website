@@ -40,6 +40,8 @@ Overall, the embedding strategy was evaluated as interesting and effective.
 
 **Azure IaaS** (VMs with configured venv), Google Colab (Jupyter notebooks) and local machines were exploited for the parallelization of the attack phase.
 
+### Repository
+
 <center>
     <button onclick="window.open('https://github.com/vicentinileonardo/DWT-SVD-digital-watermarking','_blank');" type="button" class="btn" ><i class="fa fa-github" style="font-size:42px"></i></button>
 </center>
