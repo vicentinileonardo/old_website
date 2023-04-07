@@ -5,19 +5,31 @@ permalink: /projects/
 ---
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 
+<a name="query-recommendation-system"></a>
+
 ## Query recommendation system
 
 ### Project description
 
 Hybrid recommendation system leveraging a linear combination of Expanded-Item-Item Collaborative Filtering and Compact Item-Item Collaborative Filtering based on query result cardinality.
 
-+ Team size: 2
+
+
+### Repository and Report
 
 <center>
     <button onclick="window.open('https://github.com/vicentinileonardo/query-recommendation-system','_blank');" type="button" class="btn" ><i class="fa fa-github" style="font-size:42px"></i></button>
     <button onclick="window.open('https://github.com/vicentinileonardo/query-recommendation-system/blob/main/report.pdf','_blank');" type="button" class="btn"><i class="fa fa-file-pdf-o" style="font-size:42px"></i></button>
 </center>
 
+### Team and role
+
+Team size: 2 people
+
+I was responsible for the implementation of the precursor of the generic Item-Item Collaborative Filtering algorithm and the **Compact Item-Item Collaborative Filtering** algorithm. <br>
+I proposed and integrated the **evaluation metrics** used throughout the project. <br>
+I proposed and implemented the **linear combination** based on query result cardinality of the two chosen algorithms. <br>
+Given my previous experience with **data visualization**, I created the visualizations of the results for the report, along with the contribution to the redaction of the report itself.
 
 ### Tech stack
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
