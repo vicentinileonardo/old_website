@@ -49,7 +49,7 @@ A digital watermarking implementation developed for the **"Catch the Mark" compe
 The implementation is based on various research papers and leverages **Discrete Wavelet Transform** and **Singular Value Decomposition**. <br>
 The repository contains code for embedding, detecting, and attacking watermarked images. <br>
 Overall, the embedding strategy was evaluated as interesting and effective. <br>
-**Azure IaaS** (VMs with configured venv), Google Colab (Jupyter notebooks) and local machines were exploited for the parallelization of the attack phase.
+**Azure IaaS** (VM with configured venv), Google Colab (Jupyter notebooks) and local machines were exploited for the parallelization of the attack phase.
 
 ### Repository
 
