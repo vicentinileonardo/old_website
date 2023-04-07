@@ -12,8 +12,6 @@ permalink: /projects/
 
 Hybrid recommendation system leveraging a linear combination of Expanded-Item-Item Collaborative Filtering and Compact Item-Item Collaborative Filtering based on query result cardinality.
 
-
-
 ### Repository and Report
 
 <center>
@@ -27,7 +25,8 @@ Hybrid recommendation system leveraging a linear combination of Expanded-Item-It
 
 + I was responsible for the implementation of the precursor of the generic Item-Item Collaborative Filtering algorithm and the **Compact Item-Item Collaborative Filtering** algorithm. <br>
 + I proposed and integrated the **evaluation metrics** used throughout the project. <br>
-+ I proposed and implemented the **linear combination** based on query result cardinality of the two chosen algorithms. <br>
++ I implemented several other components, following other approaches, such as a **Content-based** algorithm, which did not satisfied our baseline requirements. <br
++ I proposed and implemented the **linear combination** based on query result cardinality of the two best algorithms. <br>
 + Given my previous experience with **data visualization**, I created the visualizations of the results for the report, along with the contribution to the redaction of the report itself.
 
 ### Tech stack
@@ -39,13 +38,12 @@ Hybrid recommendation system leveraging a linear combination of Expanded-Item-It
 <hr style="border:2px solid gray"> 
 <br>
 
-<a name="digital-watermarking-tool"></a>
 
 ## Digital watermarking tool 
 
 ### Project description
 
-A digital watermarking implementation developed for the **"Catch the Mark" competition** of the Multimedia Data Security graduate course at the University of Trento. <br>
+A digital watermarking tool developed for the **"Catch the Mark" competition** of the Multimedia Data Security graduate course at the University of Trento. <br>
 The implementation is based on various research papers and leverages **Discrete Wavelet Transform** and **Singular Value Decomposition**. <br>
 The repository contains code for embedding, detecting, and attacking watermarked images. <br>
 Overall, the embedding strategy was evaluated as interesting and effective. <br>
@@ -80,12 +78,16 @@ Team size: 4 people
 
 TODO
 
-+ Team size: 2
+### Repository and Report
 
 <center>
     <button onclick="window.open('https://github.com/vicentinileonardo/parallel-convex-hull','_blank');" type="button" class="btn" ><i class="fa fa-github" style="font-size:42px"></i></button>
     <button onclick="window.open('https://github.com/vicentinileonardo/parallel-convex-hull/blob/main/Report_Parallel_Convex_Hull-Battocchio_Vicentini.pdf','_blank');" type="button" class="btn"><i class="fa fa-file-pdf-o" style="font-size:42px"></i></button>
 </center>
+
+### Team and role
+
++ Team size: 2 people
 
 ### Tech stack
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
@@ -102,12 +104,16 @@ TODO
 TODO
 (work in progress)
 
-+ Team size: 2
+### Repository and Report
 
 <center>
     <button onclick="window.open('https://github.com/vicentinileonardo/daytrip','_blank');" type="button" class="btn" ><i class="fa fa-github" style="font-size:42px"></i></button>
     <button onclick="window.open('','_blank');" type="button" class="btn"><i class="fa fa-file-pdf-o" style="font-size:42px"></i></button>
 </center>
+
+### Team and role
+
++ Team size: 2 people
 
 ### Tech stack
 ![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
@@ -136,12 +142,17 @@ TODO
 
 TODO
 
-+ Team size: 2
+### Repository and Report
 
 <center>
     <button onclick="window.open('https://github.com/vicentinileonardo/distributed-cache','_blank');" type="button" class="btn" ><i class="fa fa-github" style="font-size:42px"></i></button>
     <button onclick="window.open('','_blank');" type="button" class="btn"><i class="fa fa-file-pdf-o" style="font-size:42px"></i></button>
 </center>
+
+### Team and role
+
++ Team size: 2
+
 
 ### Tech stack
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
@@ -156,12 +167,19 @@ TODO
 
 TODO
 
-+ Team size: 1
+
 
 <center>
     <button onclick="window.open('https://github.com/vicentinileonardo/galaxies-image-classification','_blank');" type="button" class="btn" ><i class="fa fa-github" style="font-size:42px"></i></button>
     <button onclick="window.open('https://github.com/vicentinileonardo/galaxies-image-classification/blob/main/Report.pdf','_blank');" type="button" class="btn"><i class="fa fa-file-pdf-o" style="font-size:42px"></i></button>
 </center>
+
+
+### Team and role
+
++ Team size: 1 person
+
++ I was responsible for the whole project.
 
 ### Tech stack
 
@@ -179,11 +197,16 @@ TODO
 
 TODO
 
-+ Team size: 5
+### Repository and Report
 
 <center>
     <button onclick="window.open('https://github.com/vicentinileonardo/dating-app','_blank');" type="button" class="btn" ><i class="fa fa-github" style="font-size:42px"></i></button>
 </center>
+
+
+### Team and role
+
++ Team size: 5
 
 ### Tech stack
 
