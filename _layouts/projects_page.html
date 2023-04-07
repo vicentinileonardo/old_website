@@ -15,7 +15,7 @@ layout: base
         </div>
       {% endif %}
 
-      {% include anchor_headings.html html=content anchorBody="%heading%" h_min=2 h_max=2 %}
+      {% include anchor_headings.html html=content beforeHeading=true h_min=2 h_max=2 %}
 
       {% if page.after-content %}
         <div class="after-content">
