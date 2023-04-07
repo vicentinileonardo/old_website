@@ -5,8 +5,7 @@ permalink: /projects/
 ---
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 
-<a name="query-recommendation-system"></a>
-## Query recommendation system
+<a name="query-recommendation-system"> ## Query recommendation system </a>
 
 ### Project description
 
