@@ -24,12 +24,12 @@ Hybrid recommendation system leveraging a linear combination of Expanded-Item-It
 
 ### Team and role
 
-Team size: 2 people
++ Team size: 2 people
 
-I was responsible for the implementation of the precursor of the generic Item-Item Collaborative Filtering algorithm and the **Compact Item-Item Collaborative Filtering** algorithm. <br>
-I proposed and integrated the **evaluation metrics** used throughout the project. <br>
-I proposed and implemented the **linear combination** based on query result cardinality of the two chosen algorithms. <br>
-Given my previous experience with **data visualization**, I created the visualizations of the results for the report, along with the contribution to the redaction of the report itself.
++ I was responsible for the implementation of the precursor of the generic Item-Item Collaborative Filtering algorithm and the **Compact Item-Item Collaborative Filtering** algorithm. <br>
++ I proposed and integrated the **evaluation metrics** used throughout the project. <br>
++ I proposed and implemented the **linear combination** based on query result cardinality of the two chosen algorithms. <br>
++ Given my previous experience with **data visualization**, I created the visualizations of the results for the report, along with the contribution to the redaction of the report itself.
 
 ### Tech stack
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
