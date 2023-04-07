@@ -62,9 +62,9 @@ Overall, the embedding strategy was evaluated as interesting and effective. <br>
 
 Team size: 4 people
 
-I was responsible for the implementation of the **embedding** and **detection** algorithm along with another team member. <br>
-I **proposed** and **set up** cloud services for the attack phase. <br>
-Given my previous experience with Python and its main libraries, I took the lead for the **supervision** of the project and the **coordination** of the team.
++ I was responsible for the implementation of the **embedding** and **detection** algorithm along with another team member. <br>
++ I **proposed** and **set up** simple but effective cloud services for the attack phase. <br>
++ Given my previous experience with Python and its main libraries, I took the lead for the **supervision** of the project and the **coordination** of the team.
 
 ### Tech stack
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
