@@ -28,8 +28,8 @@ Hybrid recommendation system leveraging a linear combination of Expanded-Item-It
 <hr style="border:2px solid gray"> 
 <br>
 
-## Digital watermarking tool
-<a name="dwt-svd-digital-watermarking"></a>
+## Digital watermarking tool <a name="dwt-svd-digital-watermarking"></a>
+
 
 ### Project description
 
