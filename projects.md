@@ -32,8 +32,7 @@ Hybrid recommendation system leveraging a linear combination of Expanded-Item-It
 
 ### Project description
 
-A digital watermarking implementation developed for the **"Catch the Mark" competition** of the Multimedia Data Security graduate course at the University of Trento. 
-
+A digital watermarking implementation developed for the **"Catch the Mark" competition** of the Multimedia Data Security graduate course at the University of Trento. <br>
 The implementation is based on various research papers and leverages **Discrete Wavelet Transform** and **Singular Value Decomposition**. 
 
 The repository contains code for embedding, detecting, and attacking watermarked images. 
@@ -41,13 +40,17 @@ Overall, the embedding strategy was evaluated as interesting and effective.
 
 **Azure IaaS** (VMs with configured venv), Google Colab (Jupyter notebooks) and local machines were exploited for the parallelization of the attack phase.
 
-
-
-+ Team size: 4
-
 <center>
     <button onclick="window.open('https://github.com/vicentinileonardo/DWT-SVD-digital-watermarking','_blank');" type="button" class="btn" ><i class="fa fa-github" style="font-size:42px"></i></button>
 </center>
+
+### Team composition
+
+Size: 4 people
+
+I was responsible for the implementation of the embedding and detection algorithm along with another team member. 
+I proposed and set up cloud services for the attack phase. 
+Given my previous experience with Python and its main libraries, I took the lead for the supervision of the project and the coordination of the team.
 
 ### Tech stack
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
