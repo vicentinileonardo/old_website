@@ -21,7 +21,7 @@ Hybrid recommendation system leveraging a linear combination of Expanded-Item-It
 
 ### Team and role
 
-+ Team size: 2 people
+Team size: 2 people
 
 + I was responsible for the implementation of the precursor of the generic Item-Item Collaborative Filtering algorithm and the **Compact Item-Item Collaborative Filtering** algorithm. <br>
 + I proposed and integrated the **evaluation metrics** used throughout the project. <br>
@@ -47,7 +47,7 @@ A digital watermarking tool developed for the **"Catch the Mark" competition** o
 The implementation is based on various research papers and leverages **Discrete Wavelet Transform** and **Singular Value Decomposition**. <br>
 The repository contains code for embedding, detecting, and attacking watermarked images. <br>
 Overall, the embedding strategy was evaluated as interesting and effective. <br>
-**Azure IaaS** (VM with configured venv), Google Colab (Jupyter notebooks) and local machines were exploited for the parallelization of the attack phase.
+**Azure IaaS** (VM with configured Python venv), Google Colab (Jupyter notebooks) and local machines were exploited for the parallelization of the attack phase.
 
 ### Repository
 
@@ -87,7 +87,7 @@ TODO
 
 ### Team and role
 
-+ Team size: 2 people
+Team size: 2 people
 
 ### Tech stack
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
@@ -113,7 +113,7 @@ TODO
 
 ### Team and role
 
-+ Team size: 2 people
+Team size: 2 people
 
 ### Tech stack
 ![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
@@ -151,7 +151,7 @@ TODO
 
 ### Team and role
 
-+ Team size: 2
+Team size: 2
 
 
 ### Tech stack
@@ -177,7 +177,7 @@ TODO
 
 ### Team and role
 
-+ Team size: 1 person
+Team size: 1 person
 
 + I was responsible for the whole project.
 
@@ -206,7 +206,7 @@ TODO
 
 ### Team and role
 
-+ Team size: 5
+Team size: 5
 
 ### Tech stack
 
