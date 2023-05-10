@@ -6,7 +6,7 @@ permalink: /projects/
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 
 
-## Query recommendation system
+# Query recommendation system
 
 ### Project description
 
@@ -39,7 +39,7 @@ Team size: 2 people
 <br>
 
 
-## Digital watermarking tool 
+# Digital watermarking tool 
 
 ### Project description
 
