@@ -160,11 +160,45 @@ Team size: 2
 <hr style="border:2px solid gray"> 
 <br>
 
+
+## Blockchain project (TODO)
+
+### Project description
+
+Dapp + Smart contracts for managing 3d models in the context of industrial manufacturing.
+
+TODO
+
+### Repository and Report
+
+<center>
+    <button onclick="window.open('','_blank');" type="button" class="btn" ><i class="fa fa-github" style="font-size:42px"></i></button>
+    <button onclick="window.open('','_blank');" type="button" class="btn"><i class="fa fa-file-pdf-o" style="font-size:42px"></i></button>
+</center>
+
+### Team and role
+
+Team size: 3
+
+
+### Tech stack
+
+TODO
+
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![Web3JS](https://img.shields.io/badge/web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white)
+
+![Solidity](https://img.shields.io/badge/Solidity-e6e6e6?style=for-the-badge&logo=solidity&logoColor=black)
+
+<br>
+<hr style="border:2px solid gray"> 
+<br>
+
 ## Galaxies image classification
 
 ### Project description
 
-The goal of this project is to classify galaxies images into **10 different classes**. In order to achieve this goal, several models have been trained and tested, as explained in the report. The final model is leveraging a pre-trained **VGG19** network as a feature extractor and **Support Vector Machines** as a classifier. The model has been trained on a dataset of 9928 images, validated on 2487 images and tested on 5321 images. The model has achieved a sample-wise accuracy of 85.6 % and a class-wise accuracy of 83.8 % on the test set.
+The goal of this project is to classify galaxies images into **10 different classes**. In order to achieve this goal, several models have been trained and tested, as explained in the report. The final model is leveraging a pre-trained **VGG19** network as a feature extractor and **Support Vector Machines** as a classifier. The model has been trained on a dataset of 9928 images, validated on 2487 images and tested on 5321 images. The model has achieved a sample-wise accuracy of 85.6% and a class-wise accuracy of 83.8% on the test set.
 
 ### Repository and Report
 
@@ -211,6 +245,7 @@ Team size: 5
 
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 
 ![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) 
 ![ExpressJS](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
