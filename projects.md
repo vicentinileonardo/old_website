@@ -25,7 +25,7 @@ Team size: 2 people
 
 + I was responsible for the implementation of the precursor of the generic Item-Item Collaborative Filtering algorithm and the **Compact Item-Item Collaborative Filtering** algorithm. <br>
 + I proposed and integrated the **evaluation metrics** used throughout the project. <br>
-+ I implemented several other components, following other approaches, such as a **Content-based** algorithm, which did not satisfied our baseline requirements. <br
++ I implemented several other components, following other approaches, such as a **Content-based** algorithm, which did not satisfied our baseline requirements. <br>
 + I proposed and implemented the **linear combination** based on query result cardinality of the two best algorithms. <br>
 + Given my previous experience with **data visualization**, I created the visualizations of the results for the report, along with the contribution to the redaction of the report itself.
 
@@ -66,7 +66,6 @@ Team size: 4 people
 ### Tech stack
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ![NumPy](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white) 
-![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)
 
 <br>
 <hr style="border:2px solid gray"> 
@@ -165,9 +164,7 @@ Team size: 2
 
 ### Project description
 
-TODO
-
-
+The goal of this project is to classify galaxies images into **10 different classes**. In order to achieve this goal, several models have been trained and tested, as explained in the report. The final model is leveraging a pre-trained **VGG19** network as a feature extractor and **Support Vector Machines** as a classifier. The model has been trained on a dataset of 9928 images, validated on 2487 images and tested on 5321 images. The model has achieved a sample-wise accuracy of 85.6 % and a class-wise accuracy of 83.8 % on the test set.
 
 <center>
     <button onclick="window.open('https://github.com/vicentinileonardo/galaxies-image-classification','_blank');" type="button" class="btn" ><i class="fa fa-github" style="font-size:42px"></i></button>
@@ -195,7 +192,7 @@ Team size: 1 person
 
 ### Project description
 
-TODO
+A web app that allows users to register, login, and find other users based on their preferences. A simple chat system was implemented as well.
 
 ### Repository and Report
 
