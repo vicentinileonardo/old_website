@@ -71,7 +71,7 @@ Team size: 4 people
 <hr style="border:2px solid gray"> 
 <br>
 
-## Parallel convex hull solver
+# Parallel convex hull solver
 
 ### Project description
 
@@ -96,7 +96,7 @@ Team size: 2 people
 <hr style="border:2px solid gray"> 
 <br>
 
-## Daytrip - service-oriented cloud-native web application
+# Daytrip - service-oriented cloud-native web application
 
 ### Project description
 
@@ -135,7 +135,7 @@ Team size: 2 people
 <hr style="border:2px solid gray"> 
 <br>
 
-## Multi-level distributed cache
+# Multi-level distributed cache
 
 ### Project description
 
@@ -161,7 +161,7 @@ Team size: 2
 <br>
 
 
-## Blockchain project (TODO)
+# Blockchain project (TODO)
 
 ### Project description
 
@@ -194,7 +194,7 @@ TODO
 <hr style="border:2px solid gray"> 
 <br>
 
-## Galaxies image classification
+# Galaxies image classification
 
 ### Project description
 
@@ -224,7 +224,7 @@ Team size: 1 person
 <hr style="border:2px solid gray"> 
 <br>
 
-## Dating app
+# Dating app
 
 ### Project description
 
@@ -254,3 +254,4 @@ Team size: 5
 
 <br>
 <hr style="border:2px solid gray"> 
+<br>
