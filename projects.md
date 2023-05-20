@@ -16,7 +16,7 @@ Hybrid recommendation system leveraging a linear combination of Expanded-Item-It
 
 <center>
     <button onclick="window.open('https://github.com/vicentinileonardo/query-recommendation-system','_blank');" type="button" class="btn" ><i class="fa fa-github" style="font-size:42px"></i></button>
-    <button onclick="window.open('https://github.com/vicentinileonardo/query-recommendation-system/blob/main/report.pdf','_blank');" type="button" class="btn"><i class="fa fa-file-pdf-o" style="font-size:42px"></i></button>
+    <button onclick="window.open('/project_reports/query_recommendation_system.pdf','_blank');" type="button" class="btn"><i class="fa fa-file-pdf-o" style="font-size:42px"></i></button>
 </center>
 
 ### Team and role
