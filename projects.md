@@ -81,7 +81,7 @@ TODO
 
 <center>
     <button onclick="window.open('https://github.com/vicentinileonardo/parallel-convex-hull','_blank');" type="button" class="btn" ><i class="fa fa-github" style="font-size:42px"></i></button>
-    <button onclick="window.open('https://github.com/vicentinileonardo/parallel-convex-hull/blob/main/Report_Parallel_Convex_Hull-Battocchio_Vicentini.pdf','_blank');" type="button" class="btn"><i class="fa fa-file-pdf-o" style="font-size:42px"></i></button>
+    <button onclick="window.open('/project_reports/parallel_convex_hull_solver.pdf','_blank');" type="button" class="btn"><i class="fa fa-file-pdf-o" style="font-size:42px"></i></button>
 </center>
 
 ### Team and role
@@ -204,7 +204,7 @@ The goal of this project is to classify galaxies images into **10 different clas
 
 <center>
     <button onclick="window.open('https://github.com/vicentinileonardo/galaxies-image-classification','_blank');" type="button" class="btn" ><i class="fa fa-github" style="font-size:42px"></i></button>
-    <button onclick="window.open('https://github.com/vicentinileonardo/galaxies-image-classification/blob/main/Report.pdf','_blank');" type="button" class="btn"><i class="fa fa-file-pdf-o" style="font-size:42px"></i></button>
+    <button onclick="window.open('/project_reports/galaxies_image_classification.pdf','_blank');" type="button" class="btn"><i class="fa fa-file-pdf-o" style="font-size:42px"></i></button>
 </center>
 
 
