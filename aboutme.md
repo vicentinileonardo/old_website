@@ -29,7 +29,7 @@ I have always been fascinated by space and everything about it. I keep up with t
 
 ### Movies
 
-I am an avid movie lover, especially those with an intriguing plot that makes me think. I especially enjoy the darkly comedic films of Quentin Tarantino with complex characters and intertwining storylines. Some of my favorites are **Pulp Fiction** (easteregg in this website ;)), The Hateful Eight, Kill Bill and Django Unchained. I enjoy analyzing Tarantino's unconventional movie structure, intense dialogues and choice of music.
+I am an avid movie lover, especially those with an intriguing plot that makes me think. I especially enjoy the darkly comedic films of Quentin Tarantino with complex characters and intertwining storylines. Some of my favorites are **Pulp Fiction** (easteregg in this website ;) ), The Hateful Eight, Kill Bill and Django Unchained. I enjoy analyzing Tarantino's unconventional movie structure, intense dialogues and choice of music.
 
 I had the idea of creating a **software project** that analyzes Tarantino's movies and extracts interesting information from them. For example, I would like to create a graph of the characters and their relationships in each movie. I would also like to analyze the dialogues and create a word cloud of the most used words in each movie. I think this would be a fun project to work on and a great way to learn more about data analysis and visualization. This project is on my list of things to do in the future.
 
