@@ -10,7 +10,9 @@ Hi, I'm Leonardo, a Master's degree student in **Computer Science** at the Unive
 In July I will begin my thesis work on **Cloud FinOps** as the final step toward completion of my studies.
 I am curious about cloud-native solutions and system design in general. Interested in experimenting with and learning about cutting-edge technologies, tools, and paradigms.
 
-<br><br><br>
+<br>
+<hr style="border:2px solid gray"> 
+<br>
 
 # Work Experience
 
@@ -18,6 +20,9 @@ I am curious about cloud-native solutions and system design in general. Interest
 
 FIPIC – Italian Wheelchair Basketball Federation - *Feb 2021 - Jun 2021*
 
+<br>
+<hr style="border:2px solid gray"> 
+<br>
 
 # Hobbies
 
@@ -27,10 +32,9 @@ In my free time, I enjoy a variety of activities that stimulate my mind. I am pa
 
 I have always been fascinated by space and everything about it. I keep up with the latest space exploration missions and discoveries. I follow SpaceX, NASA and the European Space Agency to stay informed of new satellites, rovers, and astronaut flights. I love seeing amazing photographs from space and learning about the mysteries of our solar system and the universe. I am especially interested in the search for extraterrestrial life and the possibility of colonizing other planets. I am excited to see what the future holds for space exploration and **humanity's place in the universe**.
 
-<br><br><br>
+<br><br>
 
 ## Movies
-
 
 I am an avid movie lover, especially those with an intriguing plot that makes me think. I especially enjoy the darkly comedic films of Quentin Tarantino with complex characters and intertwining storylines. Some of my favorites are **Pulp Fiction** (there is an easter egg in this website 😉 ), The Hateful Eight, Kill Bill and Django Unchained. I enjoy analyzing Tarantino's unconventional movie structure, intense dialogues and choice of music.
 
@@ -42,8 +46,7 @@ Beyond Tarantino, I appreciate movies like Inception, The Matrix, and Interstell
 <img src="/assets/img/tarantino.webp" alt="Tarantino movies" width=auto height=auto>
 </center>
 
-
-<br><br><br>
+<br><br>
 
 ## Italian Mysteries
 
