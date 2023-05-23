@@ -35,7 +35,7 @@ I like to read papers and articles about future theories and technologies like t
 I am excited to see what the future holds for space exploration and **humanity's place in the universe**.
 
 <center>
-<img src="/assets/img/spacex.jpg" alt="SpaceX" width=100vw height=auto>
+<img src="/assets/img/spacex.jpg" alt="SpaceX" width="50%" height=auto>
 </center>
 
 <br>
