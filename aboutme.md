@@ -29,7 +29,9 @@ I have always been fascinated by space and everything about it. I keep up with t
 
 ### Movies
 
-<img src="/assets/img/tarantino.webp" alt="Tarantino movies" width="200" height=auto>
+<center>
+<img src="/assets/img/tarantino.webp" alt="Tarantino movies" width=auto height=auto>
+</center>
 
 I am an avid movie lover, especially those with an intriguing plot that makes me think. I especially enjoy the darkly comedic films of Quentin Tarantino with complex characters and intertwining storylines. Some of my favorites are **Pulp Fiction** (there is an easter egg in this website 😉 ), The Hateful Eight, Kill Bill and Django Unchained. I enjoy analyzing Tarantino's unconventional movie structure, intense dialogues and choice of music.
 
