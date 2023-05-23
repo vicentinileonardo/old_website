@@ -30,7 +30,13 @@ In my free time, I enjoy a variety of activities that stimulate my mind. I am pa
 
 ## Space Exploration
 
-I have always been fascinated by space and everything about it. I keep up with the latest space exploration missions and discoveries. I follow SpaceX, NASA and the European Space Agency to stay informed of new satellites, rovers, and astronaut flights. I love seeing amazing photographs from space and learning about the mysteries of our solar system and the universe. I am especially interested in the search for extraterrestrial life and the possibility of colonizing other planets. I am excited to see what the future holds for space exploration and **humanity's place in the universe**.
+I have always been fascinated by space and everything about it. I keep up with the latest space exploration missions and discoveries. I follow SpaceX, NASA and the European Space Agency to stay informed of new satellites, rovers, and astronaut flights. I love seeing amazing photographs from space and learning about the mysteries of our solar system and the universe. I am especially interested in the search for extraterrestrial life and the possibility of colonizing other planets. 
+I like to read papers and articles about future theories and technologies like the Dyson sphere, generation ships and planet terraforming. I am also interested in the ethical implications and the social impact of these technologies.
+I am excited to see what the future holds for space exploration and **humanity's place in the universe**.
+
+<center>
+<img src="/assets/img/spacex.jpg" alt="SpaceX" width=2rem height=auto>
+</center>
 
 <br>
 
@@ -45,7 +51,7 @@ This project is on my list of things to do in the future.
 Beyond Tarantino, I appreciate movies like Inception, The Matrix, and Interstellar that explore the nature of reality and the human mind. I also enjoy watching **documentaries** about space, science, and history. I find it fascinating to learn about the world around us and the people who have shaped it.
 
 <center>
-<img src="/assets/img/pulp_fiction_logo.png" alt="Pulp Fiction logo" width=50\% height=auto>
+<img src="/assets/img/pulp_fiction_logo.png" alt="Pulp Fiction logo" width=2rem height=auto>
 </center>
 
 <br>
