@@ -32,21 +32,23 @@ In my free time, I enjoy a variety of activities that stimulate my mind. I am pa
 
 I have always been fascinated by space and everything about it. I keep up with the latest space exploration missions and discoveries. I follow SpaceX, NASA and the European Space Agency to stay informed of new satellites, rovers, and astronaut flights. I love seeing amazing photographs from space and learning about the mysteries of our solar system and the universe. I am especially interested in the search for extraterrestrial life and the possibility of colonizing other planets. I am excited to see what the future holds for space exploration and **humanity's place in the universe**.
 
-<br><br>
+<br>
 
 ## Movies
 
 I am an avid movie lover, especially those with an intriguing plot that makes me think. I especially enjoy the darkly comedic films of Quentin Tarantino with complex characters and intertwining storylines. Some of my favorites are **Pulp Fiction** (there is an easter egg in this website 😉 ), The Hateful Eight, Kill Bill and Django Unchained. I enjoy analyzing Tarantino's unconventional movie structure, intense dialogues and choice of music.
 
-I had the idea of creating a **software project** that analyzes Tarantino's movies and extracts interesting information from them. For example, I would like to create a graph of the characters and their relationships in each movie. I would also like to analyze the dialogues and create a word cloud of the most used words in each movie. I think this would be a fun project to work on and a great way to learn more about data analysis and visualization. This project is on my list of things to do in the future.
+I had the idea of creating a **software project** that analyzes Tarantino's movies and extracts interesting information from them. For example, I would like to create a graph of the characters and their relationships in each movie, since the characters are often connected in surprising ways.
+I would also like to analyze the dialogues and create some visualizations of the most used words and phrases. I think this would be a fun project to work on and a great way to learn more about data analysis and visualization, which is a field I am interested in.
+This project is on my list of things to do in the future.
 
 Beyond Tarantino, I appreciate movies like Inception, The Matrix, and Interstellar that explore the nature of reality and the human mind. I also enjoy watching **documentaries** about space, science, and history. I find it fascinating to learn about the world around us and the people who have shaped it.
 
 <center>
-<img src="/assets/img/tarantino.webp" alt="Tarantino movies" width=auto height=auto>
+<img src="/assets/img/pulp_fiction_logo.png" alt="Pulp Fiction logo" width=auto height=auto>
 </center>
 
-<br><br>
+<br>
 
 ## Italian Mysteries
 
