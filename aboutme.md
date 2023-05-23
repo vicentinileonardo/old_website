@@ -29,7 +29,9 @@ I have always been fascinated by space and everything about it. I keep up with t
 
 ### Movies
 
-I am an avid movie lover, especially those with an intriguing plot that makes me think. I especially enjoy the darkly comedic films of Quentin Tarantino with complex characters and intertwining storylines. Some of my favorites are **Pulp Fiction** (easteregg in this website ;) ), The Hateful Eight, Kill Bill and Django Unchained. I enjoy analyzing Tarantino's unconventional movie structure, intense dialogues and choice of music.
+<img src="/assets/tarantino.webp" alt="Tarantino movies" width="200" height=auto>
+
+I am an avid movie lover, especially those with an intriguing plot that makes me think. I especially enjoy the darkly comedic films of Quentin Tarantino with complex characters and intertwining storylines. Some of my favorites are **Pulp Fiction** (there is an easter egg in this website 😉 ), The Hateful Eight, Kill Bill and Django Unchained. I enjoy analyzing Tarantino's unconventional movie structure, intense dialogues and choice of music.
 
 I had the idea of creating a **software project** that analyzes Tarantino's movies and extracts interesting information from them. For example, I would like to create a graph of the characters and their relationships in each movie. I would also like to analyze the dialogues and create a word cloud of the most used words in each movie. I think this would be a fun project to work on and a great way to learn more about data analysis and visualization. This project is on my list of things to do in the future.
 
@@ -37,12 +39,15 @@ Beyond Tarantino, I appreciate movies like Inception, The Matrix, and Interstell
 
 ### Italian Mysteries
 
-I delve into the most intriguing unsolved mysteries in Italian history like the Monster of Florence, the P2 Masonic Lodge and the Aldo Moro kidnapping. I am fascinated by these mysteries because they are so complex and involve so many different people and organizations like a big distributed system to be analyzed.
+I delve into the most intriguing unsolved mysteries in Italian history like the Monster of Florence, the P2 Masonic Lodge and the Vatican Bank Scandal.
+I am fascinated by these mysteries because they are so complex and involve so many different people and organizations like a big distributed system to be analyzed.
 
-I like to read articles and blog posts and watch documentaries about these mysteries to learn more about them.
-
+I like to read articles and blog posts and watch documentaries about these mysteries to learn more about them like the series "Blu notte - Misteri italiani" by Carlo Lucarelli.
 I enjoy the books of Gianluigi Nuzzi which uncover sinister conspiracies within the Vatican through secret document leaks...
 
+The general rule is: the more the mystery is complex, the more I like it and the more I want to dig into it.
+
 The twists and turns of the investigations remind me of the importance of critical thinking, open-mindedness and persistence in problem-solving - skills relevant both to studying and analyzing Italian mysteries and tackling the technical challenges of working in the software industry.
+The comparison might seem a bit far-fetched, but I think it's a good way to train my mind to think outside the box and to be open to **new ideas and perspectives**.
 
 Those are just a few of my passions outside of university and work. I find that following my hobbies keeps me learning, curious and engaged with the world. 
