@@ -35,7 +35,7 @@ I like to read papers and articles about future theories and technologies like t
 I am excited to see what the future holds for space exploration and **humanity's place in the universe**.
 
 <center>
-<img src="/assets/img/spacex.jpg" alt="SpaceX" width=40vw height=auto>
+<img src="/assets/img/spacex.jpg" alt="SpaceX" width=100vw height=auto>
 </center>
 
 <br>
@@ -51,7 +51,7 @@ This project is on my list of things to do in the future.
 Beyond Tarantino, I appreciate movies like Inception, The Matrix, and Interstellar that explore the nature of reality and the human mind. I also enjoy watching **documentaries** about space, science, and history. I find it fascinating to learn about the world around us and the people who have shaped it.
 
 <center>
-<img src="/assets/img/pulp_fiction_logo.png" alt="Pulp Fiction logo" width=40vw height=auto>
+<img src="/assets/img/pulp_fiction_logo.png" alt="Pulp Fiction logo" width=100vw height=auto>
 </center>
 
 <br>
