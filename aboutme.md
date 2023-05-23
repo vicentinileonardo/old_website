@@ -9,29 +9,28 @@ permalink: /aboutme/
 Hi, I'm Leonardo, a Master's degree student in **Computer Science** at the University of Trento, Italy.
 In July I will begin my thesis work on **Cloud FinOps** as the final step toward completion of my studies.
 I am curious about cloud-native solutions and system design in general. Interested in experimenting with and learning about cutting-edge technologies, tools, and paradigms.
-<br><br>
 
-## Work Experience
+<br><br><br>
+
+# Work Experience
 
 ### Software Engineer Intern
 
-FIPIC – Italian Wheelchair Basketball Federation
-*Feb 2021 - Jun 2021*
+FIPIC – Italian Wheelchair Basketball Federation - *Feb 2021 - Jun 2021*
 
 
-## Hobbies
+# Hobbies
 
 In my free time, I enjoy a variety of activities that stimulate my mind. I am passionate about learning new things and expanding my horizons. I am always looking for new hobbies to try and new skills to learn. Here are a few of my current hobbies:
 
-### Space Exploration
+## Space Exploration
 
 I have always been fascinated by space and everything about it. I keep up with the latest space exploration missions and discoveries. I follow SpaceX, NASA and the European Space Agency to stay informed of new satellites, rovers, and astronaut flights. I love seeing amazing photographs from space and learning about the mysteries of our solar system and the universe. I am especially interested in the search for extraterrestrial life and the possibility of colonizing other planets. I am excited to see what the future holds for space exploration and **humanity's place in the universe**.
 
-### Movies
+<br><br><br>
 
-<center>
-<img src="/assets/img/tarantino.webp" alt="Tarantino movies" width=auto height=auto>
-</center>
+## Movies
+
 
 I am an avid movie lover, especially those with an intriguing plot that makes me think. I especially enjoy the darkly comedic films of Quentin Tarantino with complex characters and intertwining storylines. Some of my favorites are **Pulp Fiction** (there is an easter egg in this website 😉 ), The Hateful Eight, Kill Bill and Django Unchained. I enjoy analyzing Tarantino's unconventional movie structure, intense dialogues and choice of music.
 
@@ -39,7 +38,14 @@ I had the idea of creating a **software project** that analyzes Tarantino's movi
 
 Beyond Tarantino, I appreciate movies like Inception, The Matrix, and Interstellar that explore the nature of reality and the human mind. I also enjoy watching **documentaries** about space, science, and history. I find it fascinating to learn about the world around us and the people who have shaped it.
 
-### Italian Mysteries
+<center>
+<img src="/assets/img/tarantino.webp" alt="Tarantino movies" width=auto height=auto>
+</center>
+
+
+<br><br><br>
+
+## Italian Mysteries
 
 I delve into the most intriguing unsolved mysteries in Italian history like the Monster of Florence, the P2 Masonic Lodge and the Vatican Bank Scandal.
 I am fascinated by these mysteries because they are so complex and involve so many different people and organizations like a big distributed system to be analyzed.
