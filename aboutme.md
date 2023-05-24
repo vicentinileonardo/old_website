@@ -79,6 +79,7 @@ I love to travel and explore new places. I enjoy learning about different cultur
 
 So far I have visited:
 
+Europe
 + France
 + Spain
 + Portugal
@@ -88,12 +89,13 @@ So far I have visited:
 + Croatia
 + Greece
 
+Africa
 + Egypt
 + Tunisia
 
+Asia
 + Thailand
 + Malaysia
 
 <br>
-
 Those are just a few of my passions outside of university and work. I find that following my hobbies keeps me learning, curious and engaged with the world. 
