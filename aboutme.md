@@ -81,22 +81,21 @@ Some of the cities that I have been and that I would live in are: **London**, **
 So far I have visited:
 
 Europe
-+ France
-+ Spain
-+ Portugal
-+ Germany
-+ United Kingdom
-+ Austria
-+ Croatia
-+ Greece
++ France 🇫🇷
++ Spain 🇪🇸
++ Portugal 🇵🇹
++ Germany 🇩🇪
++ United Kingdom 🇬🇧
++ Croatia 🇭🇷
++ Greece 🇬🇷
 
 Africa
-+ Egypt
-+ Tunisia
++ Egypt 🇪🇬
++ Tunisia 🇹🇳
 
 Asia
-+ Thailand
-+ Malaysia
++ Thailand 🇹🇭
++ Malaysia 🇲🇾
 
 <br>
 Those are just a few of my passions outside of university and work. I find that following my hobbies keeps me learning, curious and engaged with the world. 
