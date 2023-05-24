@@ -75,7 +75,8 @@ The comparison might seem a bit far-fetched, but I think it's a good way to trai
 
 ## Travel
 
-I love to travel and explore new places. I enjoy learning about different cultures and seeing the world from a different perspective. I have been to quite a few countries and I hope to visit more in the future. I would like to travel to Africa and South America to experience different cultures and see the beautiful landscapes. I am also interested in visiting the United States to see the big cities and the national parks.
+I love to travel and explore new places. I enjoy learning about different cultures and seeing the world from a different perspective. I have been to quite a few countries and I hope to visit more in the future. I would like to travel to South America and Australia to experience different cultures and see the beautiful landscapes. I am also interested in visiting the United States to see the big cities and the national parks.
+Some of the cities that I have been and that I would live in are: **London**, **Paris** and **Barcelona**.
 
 So far I have visited:
 
