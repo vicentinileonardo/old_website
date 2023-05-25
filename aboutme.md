@@ -26,7 +26,7 @@ FIPIC – Italian Wheelchair Basketball Federation - *Feb 2021 - Jun 2021*
 
 # Hobbies
 
-In my free time, I enjoy a variety of activities that stimulate my mind. I love discovering new things and broadening my knowledge.
+In my free time, I enjoy a variety of activities that stimulate my mind. I love **discovering new things** and **broadening my knowledge**.
 Here are a few of my current hobbies:
 
 ## Space Exploration 
@@ -50,7 +50,7 @@ I had the idea of creating a **software project** that analyzes Tarantino's movi
 I would also like to analyze the dialogues and create some visualizations of the most used words and phrases. I think this would be a fun project to work on and a great way to learn more about data analysis and visualization, which is a field I am interested in.
 This project is on my list of things to do in the future.
 
-Beyond Tarantino, I appreciate movies like Inception, The Matrix, and Interstellar that explore the nature of reality and the human mind. I also enjoy watching **documentaries** about space, science, and history. I find it fascinating to learn about the world around us and the people who have shaped it.
+Beyond Tarantino, I appreciate movies like Inception, The Matrix, Blade Runner and Interstellar that explore the nature of reality and the human mind. I also enjoy watching **documentaries** about space, science, and history. I find it fascinating to learn about the world around us and the people who have shaped it.
 
 <center>
 <img src="/assets/img/pulp_fiction_logo.png" alt="Pulp Fiction logo" width="75%" height=auto>
