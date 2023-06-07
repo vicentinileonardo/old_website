@@ -62,6 +62,7 @@ Team size: 4 people
 + I was responsible for the implementation of the **embedding** and **detection** algorithm along with another team member. <br>
 + I **proposed** and **set up** simple but effective cloud services for the attack phase. <br>
 + Given my previous experience with Python and its main libraries, I took the lead for the **supervision** of the project and the **coordination** of the team.
++ Since our backgrounds were pretty different, we tried to **leverage** the most of each other's skills and knowledge, from telecommunications to software engineering.
 
 ### Tech stack
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
@@ -183,7 +184,6 @@ Team size: 3
 
 ### Tech stack
 
-TODO
 
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -236,6 +236,8 @@ Team size: 1 person
 ### Project description
 
 A web app that allows users to register, login, and find other users based on their preferences. A simple chat system was implemented as well.
+The goal of the project was to learn to design and develop RESTful APIs using Node.js and Express.js. The project was developed in a team of 5 people and Scrum was adopted as an agile workflow methodology.
+Pair programming was also adopted as a development technique since it was the first time working with Node.js and REST for some of the team members.
 
 ### Repository and Report
 
