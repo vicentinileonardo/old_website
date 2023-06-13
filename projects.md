@@ -31,11 +31,12 @@ Team size: 2 people
 
 ### Tech stack
 
-<center>
+<div style="text-align: center;">
     ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
     ![NumPy](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white) 
     ![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
-</center>
+</div>
+
 
 <br>
 <hr style="border:2px solid gray"> 
