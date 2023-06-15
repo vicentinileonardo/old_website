@@ -29,7 +29,7 @@ FIPIC – Italian Wheelchair Basketball Federation - *Feb 2021 - Jun 2021*
 In my free time, I enjoy a variety of activities that stimulate my mind. I love **discovering new things** and **broadening my knowledge**.
 Here are a few of my current hobbies:
 
-## Space Exploration 
+## Space Exploration 🚀
 
 I have always been fascinated by space and everything about it. I keep up with the latest space exploration missions and discoveries. I follow SpaceX, NASA and the European Space Agency to stay informed of new satellites, rovers, and astronaut flights. I love seeing amazing photographs from space and learning about the mysteries of our solar system and the universe. I am especially interested in the search for extraterrestrial life and the possibility of colonizing other planets. 
 
@@ -42,7 +42,7 @@ I am excited to see what the future holds for space exploration and **humanity's
 
 <br>
 
-## Movies
+## Movies 🎥
 
 I am an avid movie lover, especially those with an intriguing plot that makes me think. I especially enjoy the darkly comedic films of Quentin Tarantino with complex characters and intertwining storylines. Some of my favorites are **Pulp Fiction** (there is an easter egg in this website 😉 ), The Hateful Eight, Kill Bill and Django Unchained. I enjoy analyzing Tarantino's unconventional movie structure, intense dialogues and choice of music.
 
@@ -58,7 +58,7 @@ Beyond Tarantino, I appreciate movies like Inception, The Matrix, Blade Runner a
 
 <br>
 
-## Italian Mysteries
+## Italian Mysteries 🕵️
 
 I delve into the most intriguing unsolved mysteries in Italian history like the Monster of Florence, the P2 Masonic Lodge and the Vatican Bank Scandal.
 I am fascinated by these mysteries because they are so complex and involve so many different people and organizations like a big distributed system to be analyzed.
@@ -73,7 +73,7 @@ The comparison might seem a bit far-fetched, but I think it's a good way to trai
 
 <br>
 
-## Travel
+## Travel 🗺️
 
 I love to travel and explore new places. I enjoy learning about different cultures and seeing the world from a different perspective. I have been to quite a few countries and I hope to visit more in the future. I would like to travel to South America and Australia to experience different cultures and see the beautiful landscapes. I am also interested in visiting the United States to see the big cities and the national parks.
 Some of the cities that I have been and that I would live in are: **London**, **Paris** and **Barcelona**.
