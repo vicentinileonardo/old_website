@@ -164,11 +164,9 @@ Team size: 2
 <br>
 
 
-# Blockchain project (TODO)
+# ProjectsChain
 
 ### Project description
-
-Dapp + Smart contracts for managing 3d models in the context of industrial manufacturing.
 
 TODO
 
@@ -176,7 +174,7 @@ TODO
 
 <center>
     <button onclick="window.open('','_blank');" type="button" class="btn" ><i class="fa fa-github" style="font-size:42px"></i></button>
-    <button onclick="window.open('','_blank');" type="button" class="btn"><i class="fa fa-file-pdf-o" style="font-size:42px"></i></button>
+    <button onclick="window.open('/project_reports/projects_chain.pdf','_blank');" type="button" class="btn"><i class="fa fa-file-pdf-o" style="font-size:42px"></i></button>
 </center>
 
 ### Team and role
