@@ -184,6 +184,14 @@ TODO
 
 Team size: 3
 
++ I was responsible for the design and implementation of a web server and related **RESTful
+APIs** that performs CRUD operations against a properly configured NoSQL database (**Redis**),
+which are critical for the pre-mint operation, IPFS upload and catalog fetching.
++ I proposed and implemented a **digital signature** mechanism into the server code and into
+Master smart contract.
++ I was responsible for the **Chainlink node** setup and Chainlink jobs configurations together with the CustomChainlinkClient smart contract development and integration with ProjectNFT.
++ I contributed to the initial high-level smart contracts design together with final smart contract **optimization** and **testing**
+
 
 ### Tech stack
 
