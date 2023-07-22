@@ -173,8 +173,11 @@ TODO
 ### Repository and Report
 
 <center>
-    <button onclick="window.open('','_blank');" type="button" class="btn" ><i class="fa fa-github" style="font-size:42px"></i></button>
+    <button onclick="window.open('https://github.com/vicentinileonardo/projectschain','_blank');" type="button" class="btn" ><i class="fa fa-github" style="font-size:42px"></i></button>
     <button onclick="window.open('/project_reports/projects_chain.pdf','_blank');" type="button" class="btn"><i class="fa fa-file-pdf-o" style="font-size:42px"></i></button>
+    <button onclick="window.open('/demos/projects_chain.mp4','_blank');" type="button" class="btn"><i class="fa fa-video-camera" aria-hidden="true" style="font-size:42px></i></button>
+
+    
 </center>
 
 ### Team and role
