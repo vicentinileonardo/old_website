@@ -5,6 +5,7 @@ permalink: /projects/
 ---
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 
+<details>
 
 # Query recommendation system
 
@@ -34,6 +35,8 @@ Team size: 2 people
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ![NumPy](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white) 
 ![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white) 
+
+</details>
 
 <br>
 <hr style="border:2px solid gray"> 
@@ -176,8 +179,6 @@ TODO
     <button onclick="window.open('https://github.com/vicentinileonardo/projectschain','_blank');" type="button" class="btn" ><i class="fa fa-github" style="font-size:42px"></i></button>
     <button onclick="window.open('/project_reports/projects_chain.pdf','_blank');" type="button" class="btn"><i class="fa fa-file-pdf-o" style="font-size:42px"></i></button>
     <button onclick="window.open('https://drive.google.com/file/d/1NBfR3Tln6dz7mGiXHSfOW1VU1A21XQo1/view?usp=sharing','_blank');" type="button" class="btn"><i class="fa fa-video-camera" aria-hidden="true" style="font-size:42px"></i></button>
-
-    
 </center>
 
 ### Team and role
