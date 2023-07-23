@@ -5,7 +5,7 @@ permalink: /projects/
 ---
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 
-<details>
+
 
 # Query recommendation system
 
@@ -36,7 +36,6 @@ Team size: 2 people
 ![NumPy](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white) 
 ![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white) 
 
-</details>
 
 <br>
 <hr style="border:2px solid gray"> 
