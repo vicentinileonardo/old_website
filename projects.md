@@ -9,9 +9,7 @@ permalink: /projects/
 
 # Query recommendation system
 
-### Dates
-
-[ Nov. 2022 - Jan. 2023 ]
+#### [ Nov. 2022 - Jan. 2023 ]
 
 ### Project description
 
