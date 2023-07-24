@@ -66,6 +66,7 @@ The project aims to create a web application that suggests daytrip destinations 
 <center>
     <button onclick="window.open('https://github.com/vicentinileonardo/daytrip','_blank');" type="button" class="btn" ><i class="fa fa-github" style="font-size:42px"></i></button>
     <button onclick="window.open('/project_reports/daytrip.pdf','_blank');" type="button" class="btn"><i class="fa fa-file-pdf-o" style="font-size:42px"></i></button>
+    <button onclick="window.open('https://drive.google.com/file/d/1k0KBPMmt-DaVHthZ1S2wKzhBID33X0ad/view?usp=sharing','_blank');" type="button" class="btn"><i class="fa fa-video-camera" aria-hidden="true" style="font-size:42px"></i></button>
 </center>
 
 ### Team and role
