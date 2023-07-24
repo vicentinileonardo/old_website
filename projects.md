@@ -9,9 +9,14 @@ permalink: /projects/
 
 # Query recommendation system
 
+### Dates
+
++ **Start date**: 2021-03-01
++ **End date**: 2021-06-01
+
 ### Project description
 
-Hybrid recommendation system leveraging a linear combination of Expanded-Item-Item Collaborative Filtering and Compact Item-Item Collaborative Filtering based on query result cardinality.
+**Hybrid recommendation system** leveraging a linear combination of Expanded-Item-Item Collaborative Filtering and Compact Item-Item Collaborative Filtering based on query result cardinality.
 
 ### Repository and Report
 
@@ -65,7 +70,7 @@ Team size: 4 people
 + I was responsible for the implementation of the **embedding** and **detection** algorithm along with another team member. <br>
 + I **proposed** and **set up** simple but effective cloud services for the attack phase. <br>
 + Given my previous experience with Python and its main libraries, I took the lead for the **supervision** of the project and the **coordination** of the team.
-+ Since our backgrounds were pretty different, we tried to **leverage** the most of each other's skills and knowledge, from telecommunications to software engineering.
++ Since our backgrounds were pretty different, we tried to **leverage** the most of each other's skills and knowledge, from telecommunications to software engineering and cybersecurity. <br>
 
 ### Tech stack
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
@@ -79,7 +84,7 @@ Team size: 4 people
 
 ### Project description
 
-TODO
+Parallel implementation of the Divide and Conquer algorithm for the convex hull problem. The implementation is based on the **C** programming language and leverages **MPI** and **OpenMP** libraries. The solution was tested on a **High-Performance Computing cluster** with specific PBS configuration files.
 
 ### Repository and Report
 
@@ -91,6 +96,11 @@ TODO
 ### Team and role
 
 Team size: 2 people
+
++ The team designed the general implementation strategy together. <br>
++ I contributed in part of the core implementation and debugging of the algorithm. <br>
++ I was responsible for the implementation fo the *OpenMP* section of the project. <br>
++ I investigated various PBS configurations for the HPC cluster and proposed the final one. <br>
 
 ### Tech stack
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
@@ -104,8 +114,7 @@ Team size: 2 people
 
 ### Project description
 
-TODO
-(work in progress)
+The project aims to create a web application that suggests daytrip destinations in Italy based on weather conditions, travel time, and other indicators. A service-oriented architecture was used to build decoupled services that can be expanded and modified independently.
 
 ### Repository and Report
 
@@ -170,7 +179,7 @@ Team size: 2
 
 ### Project description
 
-TODO
+ProjectsChain is a plugin developed in order to be integrated with already existing e-shops of industrial designs and is able to grant, using the public **blockchain** and through **smart contracts**, the intellectual property of the projects and a fair royalty distribution between coauthors of a final project. The straightforward and transparent mechanism developed also will prevent non-payment and miscommunication risks, representing common scenarios among freelancers.
 
 ### Repository and Report
 
@@ -184,8 +193,7 @@ TODO
 
 Team size: 3
 
-+ I was responsible for the design and implementation of a web server and related **RESTful
-APIs** that performs CRUD operations against a properly configured NoSQL database (**Redis**),
++ I was responsible for the design and implementation of a web server and related **RESTful APIs** that performs CRUD operations against a properly configured NoSQL database (**Redis**),
 which are critical for the pre-mint operation, IPFS upload and catalog fetching.
 + I proposed and implemented a **digital signature** mechanism into the server code and into
 Master smart contract.
@@ -231,7 +239,7 @@ The goal of this project is to classify galaxies images into **10 different clas
 
 Team size: 1 person
 
-+ I was responsible for the whole project.
++ I was responsible for the whole project, from model exploration to final implementation. <br>
 
 ### Tech stack
 
@@ -247,7 +255,7 @@ Team size: 1 person
 
 ### Project description
 
-A web app that allows users to register, login, and find other users based on their preferences. A simple chat system was implemented as well.
+A web app that allows users to register, login, and find other users based on their **preferences**. A simple **chat system** was implemented as well.
 The goal of the project was to learn to design and develop RESTful APIs using Node.js and Express.js. The project was developed in a team of 5 people and Scrum was adopted as an agile workflow methodology.
 Pair programming was also adopted as a development technique since it was the first time working with Node.js and REST for some of the team members.
 
@@ -261,6 +269,9 @@ Pair programming was also adopted as a development technique since it was the fi
 ### Team and role
 
 Team size: 5
+
++ Given my previous experience with web development, I was co-led the initial design of the project. <br>
++ I was responsible for the implementation of some of the core RESTful endpoints <br>
 
 ### Tech stack
 
