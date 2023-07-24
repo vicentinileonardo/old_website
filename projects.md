@@ -11,8 +11,7 @@ permalink: /projects/
 
 ### Dates
 
-+ **Start date**: 2021-03-01
-+ **End date**: 2021-06-01
+[ Nov. 2022 - Jan. 2023 ]
 
 ### Project description
 
