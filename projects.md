@@ -73,6 +73,11 @@ The project aims to create a web application that suggests daytrip destinations 
 
 Team size: 2 people
 
++ I was responsible for the design and implementation of many of the core services, spanning from data layer to business logic and process centric services. <br>
++ I implemented services both in **Node.js** and **Python** to show the flexibility of this kind of architecture. <br>
++ I was responsible for the configuration of the **Docker** images and the **Docker Compose** file. <br>
++ I proposed and implemented a workaround for a Docker issue that was preventing the correct execution of a service leveraging **matplotlib** Python library: the service is running in a serverless fashion, leveraging **AWS Lambda** and **AWS API Gateway**. <br>
+
 ### Tech stack
 ![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
