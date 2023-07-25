@@ -13,7 +13,7 @@ permalink: /projects/
 
 ProjectsChain is a plugin developed in order to be integrated with already existing e-shops of industrial designs and is able to grant, using a public **blockchain** and through **smart contracts**, the intellectual property of the projects and a fair royalty distribution between coauthors of a final project. The straightforward and transparent mechanism developed also will prevent non-payment and miscommunication risks, representing common scenarios among freelancers.
 
-### Repository and Report
+### Repository, Report and Demo
 
 <center>
     <button onclick="window.open('https://github.com/vicentinileonardo/projectschain','_blank');" type="button" class="btn" ><i class="fa fa-github" style="font-size:42px"></i></button>
@@ -61,7 +61,7 @@ Master smart contract.
 
 The project aims to create a web application that suggests daytrip destinations in Italy based on weather conditions, travel time, and other indicators. A service-oriented architecture was used to build decoupled services that can be expanded and modified independently.
 
-### Repository and Report
+### Repository, Report and Demo
 
 <center>
     <button onclick="window.open('https://github.com/vicentinileonardo/daytrip','_blank');" type="button" class="btn" ><i class="fa fa-github" style="font-size:42px"></i></button>
@@ -79,6 +79,7 @@ Team size: 2 people
 + I proposed and implemented a workaround for a Docker issue that was preventing the correct execution of a service leveraging **matplotlib** Python library: the service is running in a serverless fashion, leveraging **AWS Lambda** and **AWS API Gateway**. <br>
 
 ### Tech stack
+
 ![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 
