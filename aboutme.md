@@ -7,7 +7,7 @@ permalink: /aboutme/
 <i>“Learning never exhausts the Mind.” — Leonardo da Vinci</i>
 
 Hi, I'm Leonardo, a Master's degree student in **Computer Science** at the University of Trento, Italy.
-In July I will begin my thesis work as the final step toward completion of my studies.
+In September I will begin my thesis work as the final step toward completion of my studies.
 I am curious about cloud-native solutions and system design in general. Interested in experimenting with and learning about cutting-edge technologies, tools, and paradigms.
 
 <br>
