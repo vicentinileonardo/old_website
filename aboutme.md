@@ -16,6 +16,10 @@ I am curious about cloud-native solutions and system design in general. Interest
 
 # Work Experience
 
+### Software/Cloud Engineer Intern
+
+Krateo - *Oct 2023 - Present*
+
 ### Software Engineer Intern
 
 FIPIC – Italian Wheelchair Basketball Federation - *Feb 2021 - Jun 2021*
@@ -76,26 +80,32 @@ The comparison might seem a bit far-fetched, but I think it's a good way to trai
 ## Travel 🗺️
 
 I love to travel and explore new places. I enjoy learning about different cultures and seeing the world from a different perspective. I have been to quite a few countries and I hope to visit more in the future. I would like to travel to South America and Australia to experience different cultures and see the beautiful landscapes. I am also interested in visiting the United States to see the big cities and the national parks.
-Some of the cities that I have been and that I would live in are: **London**, **Paris** and **Barcelona**.
+Some of the cities that I have been and that I would live in are: **London**, **Paris**, **Lisbon** and **Barcelona**.
 
 So far I have visited:
 
 Europe
-+ France 🇫🇷
-+ Spain 🇪🇸
-+ Portugal 🇵🇹
-+ Germany 🇩🇪
-+ United Kingdom 🇬🇧
-+ Croatia 🇭🇷
-+ Greece 🇬🇷
++ France 🇫🇷 (2013)
++ Spain 🇪🇸 (2006, 2015, 2022)
++ Portugal 🇵🇹 (2018)
++ Germany 🇩🇪 (2017)
++ United Kingdom 🇬🇧 (2014, 2016)
++ Croatia 🇭🇷 (2017)
++ Greece 🇬🇷 (2018)
++ Vatican City 🇻🇦 (2012, 2017)
 
 Africa
-+ Egypt 🇪🇬
++ Egypt 🇪🇬 
 + Tunisia 🇹🇳
 
 Asia
-+ Thailand 🇹🇭
-+ Malaysia 🇲🇾
++ Thailand 🇹🇭 (2017)
++ Malaysia 🇲🇾 (2019)
+
+Technically I have also been to, but don't count:
++ Austria 🇦🇹 (2013)
++ United Arab Emirates 🇦🇪 (2019)
++ Laos 🇱🇦 (2017)
 
 <br>
 Those are just a few of my passions outside of university and work. I find that following my hobbies keeps me learning, curious and engaged with the world. 
