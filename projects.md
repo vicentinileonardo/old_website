@@ -5,9 +5,10 @@ permalink: /projects/
 ---
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 
-# 1. ProjectsChain - Ethereum-based decentralized application
+<details>
+  <summary>ProjectsChain - Ethereum-based decentralized application</summary>
 
-<!-- ### [ May 2023 - Jul. 2023 ] -->
+  <!-- ### [ May 2023 - Jul. 2023 ] -->
 
 ### Project description
 
@@ -53,7 +54,11 @@ Master smart contract.
 <hr style="border:2px solid gray"> 
 <br>
 
-# 2. Daytrip - service-oriented cloud-native web application
+</details>
+
+
+
+# Daytrip - service-oriented cloud-native web application
 
 <!-- ### [ Feb. 2023 - Mar. 2023 ] -->
 
@@ -103,7 +108,7 @@ Team size: 2 people
 
 # Query recommendation system
 
-### [ Nov. 2022 - Jan. 2023 ]
+<!-- ### [ Nov. 2022 - Jan. 2023 ] -->
 
 ### Project description
 
@@ -139,7 +144,7 @@ Team size: 2 people
 
 # Parallel convex hull solver
 
-### [ Oct. 2022 - Dec 2022 ]
+<!-- ### [ Oct. 2022 - Dec 2022 ] -->
 
 ### Project description
 
@@ -171,7 +176,7 @@ Team size: 2 people
 
 # Digital watermarking tool 
 
-### [ Oct. 2022 - Nov 2022 ]
+<!-- ### [ Oct. 2022 - Nov 2022 ] -->
 
 ### Project description
 
@@ -233,7 +238,7 @@ Team size: 2
 
 # Galaxies image classification
 
-### [ Jun. 2021 - Jul. 2021 ]
+<!-- ### [ Jun. 2021 - Jul. 2021 ] -->
 
 ### Project description
 
@@ -265,7 +270,7 @@ Team size: 1 person
 
 # Dating app
 
-### [ Oct. 2020 - Dec. 2020 ]
+<!-- ### [ Oct. 2020 - Dec. 2020 ] -->
 
 ### Project description
 
@@ -284,7 +289,7 @@ Pair programming was also adopted as a development technique since it was the fi
 
 Team size: 5
 
-+ Given my previous experience with web development, I was co-led the initial design of the project. <br>
++ Given my previous experience with web development, I co-led the initial design of the project. <br>
 + I was responsible for the implementation of some of the core RESTful endpoints <br>
 
 ### Tech stack
