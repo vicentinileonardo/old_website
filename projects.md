@@ -5,9 +5,9 @@ permalink: /projects/
 ---
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 
-# ProjectsChain - Ethereum-based decentralized application
+# 1. ProjectsChain - Ethereum-based decentralized application
 
-### [ May 2023 - Jul. 2023 ]
+<!-- ### [ May 2023 - Jul. 2023 ] -->
 
 ### Project description
 
@@ -53,9 +53,9 @@ Master smart contract.
 <hr style="border:2px solid gray"> 
 <br>
 
-# Daytrip - service-oriented cloud-native web application
+# 2. Daytrip - service-oriented cloud-native web application
 
-### [ Feb. 2023 - Mar. 2023 ]
+<!-- ### [ Feb. 2023 - Mar. 2023 ] -->
 
 ### Project description
 
