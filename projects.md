@@ -5,32 +5,8 @@ permalink: /projects/
 ---
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 
-<script>
-   function showProject(projectId) {
-  // Hide all project content
-  var projects = document.getElementsByTagName('div');
-  for (var i = 0; i < projects.length; i++) {
-    if (projects[i].id.startsWith('project')) {
-      projects[i].style.display = 'none';
-    }
-  } 
-    // Show the clicked project content
-  document.getElementById(projectId).style.display = 'block';
-}
-</script>
 
-
-
-<ul>
-  <li onclick="showProject('project1')"><h1>ProjectsChain - Ethereum-based decentralized application</h1></li>
-  <li onclick="showProject('project2')"><h1>Daytrip - service-oriented cloud-native web application</h1></li>
-  <li onclick="showProject('project3')"><h1>Query recommendation system</h1></li>
-</ul>
-
-
-
-
-<div id="project1" style="display: none;">
+# ProjectsChain - Ethereum-based decentralized application
 
 ### Project description
 
@@ -75,9 +51,6 @@ Master smart contract.
 <br>
 <hr style="border:2px solid gray"> 
 <br>
-
-</div>
-
 
 
 
