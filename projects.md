@@ -5,10 +5,8 @@ permalink: /projects/
 ---
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 
-<details>
-  <summary>ProjectsChain - Ethereum-based decentralized application</summary>
 
-  <!-- ### [ May 2023 - Jul. 2023 ] -->
+# ProjectsChain - Ethereum-based decentralized application
 
 ### Project description
 
@@ -53,8 +51,6 @@ Master smart contract.
 <br>
 <hr style="border:2px solid gray"> 
 <br>
-
-</details>
 
 
 
