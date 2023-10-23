@@ -231,6 +231,33 @@ Team size: 2
 <hr style="border:2px solid gray"> 
 <br>
 
+# Video outpainting localizer
+
+Deep learning model for video outpainting localization. The model is able to localize the outpainted region in a video frame and to generate a binary mask that highlights the outpainted region. The implementation is based on the [RAFT model](https://arxiv.org/pdf/2003.12039.pdf). The model has achieved a F1 score of 0.786 on the test set.
+
+### Project description
+
+TODO
+
+### Repository and Report
+
+<center>
+    <button onclick="window.open('/project_reports/video_outpainting_localizer.pdf','_blank');" type="button" class="btn"><i class="fa fa-file-pdf-o" style="font-size:42px"></i></button>
+</center>
+
+### Team and role
+
+Team size: 2
+
+### Tech stack
+![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+![NumPy](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white) 
+
+<br>
+<hr style="border:2px solid gray"> 
+<br>
+
+
 
 # Galaxies image classification
 
